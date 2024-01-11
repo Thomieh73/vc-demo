@@ -2,4 +2,8 @@
 
  “Commit 1 to main branch by collaborator” 
 
+<<<<<<< HEAD
 “Commit 2 to main branch by collaborator” 
+=======
+“Commit 2 to main branch by admin” 
+>>>>>>> 98795d43d44395835de5dade6b68dfc1875205b0
