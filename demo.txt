@@ -7,3 +7,5 @@
 “Commit 1 to admin-br by admin”
 
 “Commit 2 to admin-br by admin”
+
+“Commit to main by admin, collaborator can start with this commit on a new file and a new branch”
