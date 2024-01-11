@@ -1,2 +1,6 @@
-test.txt
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
 raw-data/
+test.txt
